@@ -28,7 +28,7 @@ Repository 2 mit Composer installiert werden können.
 Finanzierung
 ------------
 
-Langfristig soll soll das Projekt durch die `Contao Assoziation`_ finanziell
+Langfristig soll soll das Projekt durch die `Contao Association`_ finanziell
 gefördert werden. Ein entsprechender Antrag wird noch 2014 eingereicht.
 
 Maintainer
@@ -131,7 +131,7 @@ Mitwirkende
    </script>
 
 .. _Contao Community Alliance: https://c-c-a.org
-.. _Contao Assoziation: https://association.contao.org/
+.. _Contao Association: https://association.contao.org/
 
 .. _Nils Adermann: http://naderman.de/
 .. _Jordi Boggiano: http://nelm.io/jordi
