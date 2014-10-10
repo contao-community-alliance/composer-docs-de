@@ -1,0 +1,5 @@
+# exclude locally build docs
+/docs/_build
+
+# exclude python binaries
+*.pyc

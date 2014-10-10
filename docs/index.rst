@@ -1,17 +1,17 @@
-.. Contao Composer Project documentation master file, created by
-   sphinx-quickstart on Fri Oct 10 07:41:59 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. _contao_composer_documentation:
 
-Welcome to Contao Composer Project's documentation!
-===================================================
+Contao Composer Dokumentation
+=============================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-
+   client/index
+   plugin/index
+   repository/index
+   about
 
 Indices and tables
 ==================
