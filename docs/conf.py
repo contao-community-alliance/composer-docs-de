@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Contao Composer Project'
+project = u'Contao Composer Projekt'
 copyright = u'2014, Christian Schiffler, Tristan Lins'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -186,7 +186,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'ContaoComposerProjectdoc'
+htmlhelp_basename = 'ContaoComposerProjektDoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -206,7 +206,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'ContaoComposerProject.tex', u'Contao Composer Project Documentation',
+  ('index', 'ContaoComposerProjekt.tex', u'Contao Composer Projekt Documentation',
    u'Christian Schiffler, Tristan Lins', 'manual'),
 ]
 
@@ -236,7 +236,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'contaocomposerproject', u'Contao Composer Project Documentation',
+    ('index', 'contaocomposerprojekt', u'Contao Composer Projekt Documentation',
      [u'Christian Schiffler, Tristan Lins'], 1)
 ]
 
@@ -250,8 +250,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ContaoComposerProject', u'Contao Composer Project Documentation',
-   u'Christian Schiffler, Tristan Lins', 'ContaoComposerProject', 'One line description of project.',
+  ('index', 'ContaoComposerProjekt', u'Contao Composer Projekt Documentation',
+   u'Christian Schiffler, Tristan Lins', 'ContaoComposerProjekt', 'One line description of projekt.',
    'Miscellaneous'),
 ]
 
@@ -271,13 +271,13 @@ texinfo_documents = [
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'Contao Composer Project'
+epub_title = u'Contao Composer Projekt'
 epub_author = u'Christian Schiffler, Tristan Lins'
 epub_publisher = u'Christian Schiffler, Tristan Lins'
 epub_copyright = u'2014, Christian Schiffler, Tristan Lins'
 
 # The basename for the epub file. It defaults to the project name.
-#epub_basename = u'Contao Composer Project'
+#epub_basename = u'Contao Composer Projekt'
 
 # The HTML theme for the epub output. Since the default themes are not optimized
 # for small screen space, using the same theme for HTML and epub output is
