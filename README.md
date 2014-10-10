@@ -8,6 +8,6 @@ Die Dokumentation wird auf [Read The Docs](https://readthedocs.org) gehostet.
 * [reStructuredText Grundlagen][2]
 * [Dokumentation zu Read The Docs][3]
 
-[1]: http://contao-composer-project.readthedocs.org/
+[1]: http://contao-composer-project.readthedocs.org/de/
 [2]: http://sphinx-doc.org/rest.html
 [3]: https://read-the-docs.readthedocs.org
