@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Contao Composer Projekt'
-copyright = u'2014, Christian Schiffler, Tristan Lins'
+copyright = u'2014, The Contao Composer Project team, licensed under CC-BY-NC-SA 3.0 Unported'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -207,7 +207,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'ContaoComposerProjekt.tex', u'Contao Composer Projekt Documentation',
-   u'Christian Schiffler, Tristan Lins', 'manual'),
+   u'The Contao Composer Project team, licensed under CC-BY-NC-SA 3.0 Unported', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -237,7 +237,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'contaocomposerprojekt', u'Contao Composer Projekt Documentation',
-     [u'Christian Schiffler, Tristan Lins'], 1)
+     [u'The Contao Composer Project team, licensed under CC-BY-NC-SA 3.0 Unported'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -251,7 +251,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'ContaoComposerProjekt', u'Contao Composer Projekt Documentation',
-   u'Christian Schiffler, Tristan Lins', 'ContaoComposerProjekt', 'One line description of projekt.',
+   u'The Contao Composer Project team, licensed under CC-BY-NC-SA 3.0 Unported', 'ContaoComposerProjekt', 'One line description of projekt.',
    'Miscellaneous'),
 ]
 
@@ -272,9 +272,9 @@ texinfo_documents = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'Contao Composer Projekt'
-epub_author = u'Christian Schiffler, Tristan Lins'
-epub_publisher = u'Christian Schiffler, Tristan Lins'
-epub_copyright = u'2014, Christian Schiffler, Tristan Lins'
+epub_author = u'The Contao Composer Project team, licensed under CC-BY-NC-SA 3.0 Unported'
+epub_publisher = u'The Contao Composer Project team, licensed under CC-BY-NC-SA 3.0 Unported'
+epub_copyright = u'2014, The Contao Composer Project team, licensed under CC-BY-NC-SA 3.0 Unported'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = u'Contao Composer Projekt'
